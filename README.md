@@ -1,4 +1,3 @@
-
 # Serviço de Notificações
 
 Este é um projeto Node.js que utiliza NestJS com testes, Prisma e microserviços para criar um micro-serviço de notificação, que pode ser usado para notificar outras partes de uma aplicação.
@@ -7,9 +6,9 @@ Este é um projeto Node.js que utiliza NestJS com testes, Prisma e microserviço
 
 O Serviço de Notificações oferece as seguintes funcionalidades:
 
--   Enviar notificações para outras partes da aplicação através de um serviço de mensageria.
--   Criar, editar e excluir notificações.
--   Listar notificações.
+- Enviar notificações para outras partes da aplicação através de um serviço de mensageria.
+- Criar, editar e excluir notificações.
+- Listar notificações.
 
 ## Instalação
 
@@ -32,10 +31,6 @@ O Prisma é uma ferramenta de ORM utilizada neste projeto para gerenciar o banco
 ## Microserviços
 
 O Serviço de Notificações utiliza a arquitetura de microserviços para se comunicar com outras partes da aplicação. Você pode encontrar mais informações sobre microserviços na [documentação do NestJS](https://docs.nestjs.com/microservices/basics).
-
-## Contribuindo
-
-Se você deseja contribuir com o Serviço de Notificações, por favor consulte as [diretrizes de contribuição](https://chat.openai.com/CONTRIBUTING.md).
 
 ## Licença
 
